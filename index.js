@@ -1,8 +1,8 @@
 console.log('hi')
-const setting  = require('./myscript.js')
+//const setting  = require('./myscript.js')
 console.log(setting);
 
-const counterObject = require('./myscript.js')
+//const counterObject = require('./myscript.js')
 
 console.log(counterObject.getcounter())
 counterObject.increment();
